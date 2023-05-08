@@ -1,4 +1,4 @@
-package com.example.remote_config_flutter
+package flutter.remote.config
 
 import io.flutter.embedding.android.FlutterActivity
 

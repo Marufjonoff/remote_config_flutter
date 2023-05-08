@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.remote_config_flutter">
+    package="flutter.remote.config">
    <application
         android:label="remote_config_flutter"
         android:name="${applicationName}"
